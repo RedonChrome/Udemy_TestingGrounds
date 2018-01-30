@@ -2,7 +2,7 @@
 
 #include "UdemyProject01GameMode.h"
 #include "UdemyProject01HUD.h"
-#include "UdemyProject01Character.h"
+#include "Player/FirstPersonCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 AUdemyProject01GameMode::AUdemyProject01GameMode()
