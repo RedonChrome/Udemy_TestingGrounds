@@ -11,7 +11,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "MotionControllerComponent.h"
 
-//DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
+DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
 //////////////////////////////////////////////////////////////////////////
 // AFirstPersonCharacter
